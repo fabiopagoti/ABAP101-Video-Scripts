@@ -1,0 +1,38 @@
+
+x - Cena
+Script - exatamente o que sera gravado
+Elementos nos slides: brainstorm do que aparecera na tela
+
+1 - Problema
+Voce esta queriendo aprender ABAP e nao sabe de onde comecar. Ou talvez ja tenha alguma experiencia mas nao consegue emprego.
+Elementos nos slides: Mercado SAP, Lista de vagas, academia SAP
+
+2 - Entrevistas
+Vagas para junior exigem experiencia e experiencia so se ganha trabalhando como junior…
+Elementos nos slides: Entrevista. Dilema
+
+3 - Open Source
+Nao mais. Participacao em projetos open source eh um dos criterios mais relevantes na hora do recrutamento de um desenvolvedor de software 
+Elementos nos slides: CV em declinio. Github, code exchange, google code 
+
+4 - Projetos Open Source ABAP 101
+O blog ABAP 101 ajuda voce a conseguir a experiencia necessaria para entrar no mercado realizando coaching atraves de um projeto open source.
+Elementos nos slides: Professor, reunioes, emails, EF
+
+5 - Como participar
+Para participar eh simples, inscreva-se na lista de emails + Faca exercicios para mostrar vontade + seja chamado. Tudo isso de gratis.
+Elementos nos slides: Email, exercicios, Sem custo
+
+6 - Resultado
+Apos a conclusao do release inicial, voce tera adquirido experiencia, participado na criacao de um produto a ser compartilhado para a comunidade SAP e ganhado reputacao
+Elementos nos slides: Carteira de trabalho assinada, Produto, reputacao
+
+7 - Historico
+Os participantes dos projetos open source ja lancaram diversos produtos para a comunidade SAP e evoluiram profissionalmente. 
+Elementos nos slides: Logo dos projetos
+
+8 - Saiba Mais
+Seja mais um deles. Viste nossa pagina para mais informacoes.
+Elementos nos slides: Contato
+
+
